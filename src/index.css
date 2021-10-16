@@ -71,6 +71,14 @@ body {
   justify-content: space-between;
 }
 
+.center{
+  text-align:center
+}
+.AlignLink{
+  margin:0 auto;
+  text-align:center;
+  width:200px;
+}
 .add-form {
   margin-bottom: 40px;
 }
